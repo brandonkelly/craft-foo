@@ -12,8 +12,6 @@
     "extra": {
         "name": "Foo",
         "handle": "foo",
-        "developer": "Pixel & Tonic",
-        "developerUrl": "https://pixelandtonic.com/",
-        "schemaVersion": "0.0.2"
+        "developer": "Pixel & Tonic"
     }
 }
