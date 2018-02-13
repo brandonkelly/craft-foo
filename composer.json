@@ -1,0 +1,19 @@
+{
+    "name": "brandonkelly/foo",
+    "version": "2.0.0",
+    "description": "Test Craft CMS plugin",
+    "type": "craft-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "brandonkelly\\foo\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Foo",
+        "handle": "foo",
+        "developer": "Pixel & Tonic",
+        "developerUrl": "https://pixelandtonic.com/",
+        "schemaVersion": "0.0.2"
+    }
+}
